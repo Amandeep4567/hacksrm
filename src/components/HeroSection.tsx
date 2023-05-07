@@ -61,9 +61,7 @@ export const HeroSection = () => {
         </div>
         <div className="w-full max-w-md space-y-0 py-10 xl:space-y-6">
           {/* Title */}
-          <div className="title-gradient flex items-center justify-center space-y-4">
-            Hackathon will start in
-          </div>
+
           <div className="title-gradient flex flex-row justify-center gap-1 text-4xl font-bold sm:text-6xl">
             <div className="flex flex-col gap-2 text-center">
               <span>{days}</span>
@@ -84,17 +82,12 @@ export const HeroSection = () => {
           {/* Venue and Date */}
           <div className="flex flex-col items-center justify-center space-y-4 pt-6 text-white">
             <div className="flex flex-col items-center justify-center space-y-2 text-white">
-              <span className="text-center text-lg">
-                DATES:
-                <span className="pl-3 font-medium text-indigo-400">
-                  19th - 20th May 2023
-                </span>
+              <span className="pl-3 text-3xl font-medium text-indigo-400">
+                19th - 20th May 2023
               </span>
             </div>
             <div className="flex flex-col items-center justify-center space-y-2 text-white">
-              <span className="text-center text-lg">
-                VENUE: SRM University AP
-              </span>
+              <span className="text-2xl">SRM University </span>
               <span className="text-base sm:text-lg">
                 Amaravati, Andhra Pradesh
               </span>
@@ -108,7 +101,7 @@ export const HeroSection = () => {
               data-button-theme="light"
               style={{ height: "44px", width: "312px" }}
             ></div>
-            <button className="z-10 w-80 rounded-sm bg-white p-2.5 text-indigo-600 hover:bg-gray-100">
+            <button className="z-10 w-80 rounded-sm bg-white p-2.5 font-medium text-indigo-600 hover:bg-gray-100">
               Join Discord
             </button>
           </div>
