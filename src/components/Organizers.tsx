@@ -212,7 +212,7 @@ export const OrganizersSection = () => {
               className="h-16 w-16 rounded-md object-cover object-center sm:h-32 sm:w-32"
             />
             <div>
-              <div className="indigo mb-2 text-center text-3xl font-medium text-gray-200 antialiased md:text-lg">
+              <div className="indigo mb-2 text-center text-xl font-medium text-gray-200 antialiased md:text-lg">
                 {organizer.name}
               </div>
               <div className=" sm:text-md flex justify-center text-lg text-gray-300">
