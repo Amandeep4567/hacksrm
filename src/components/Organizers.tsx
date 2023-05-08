@@ -24,7 +24,7 @@ const AdvisorsData = [
   {
     name: "Sai Krishna",
     image:
-      "https://media.licdn.com/dms/image/D4D03AQHe8k2B5dgLGg/profile-displayphoto-shrink_100_100/0/1683178217441?e=1688601600&v=beta&t=_DKbtf-YDNUOj1pO-fWlRyN5EWe1CjRBAztWs6vf-NE",
+      "https://cdn.discordapp.com/attachments/1078952614223425667/1105116437217038396/IMG_5078_2.jpg",
     position: "Advisor",
     team: "",
   },
@@ -59,7 +59,7 @@ const OrganizationHead = [
     team: "Technical",
   },
   {
-    name: "Subash",
+    name: "Subhash",
     image:
       "https://lh3.googleusercontent.com/fife/APg5EObTmqcuz8YjBL8mtgHE61qSGaePzbqDbfs_sBKoJ6MDu16aqL3pZq6LOCXm1ERS0t5koRet9vCG14wo2t24DHRylwJLkOJfDHpWIb3z_G71MILpYM5H5fZd2Uhudb1Zftq0rYIGWLp2_GMRow76D69jaTg9Qj11CI64ydWEdseiGfRSm8muEbq4vR2Z3Y0zqv9yuNFSTImMu6Vv68D_iMWzHu1eEnrGCagPaXSVyikyeT1WwMKQtMeHOUUBGU8d1m2WDoWxVRzHM7rX5KQ9MAoXlwFeABiR4VtkyPgsgnoKDao0fMFoaw8S9MyNhzCy121PxnHjUiFYjsJlSz6zhik6yCS4jYaBUSrTG0TTsWrZlnLFVqFM1Q9MidzMUUB1dN0jdSY3fADoISkaDjGlhRIAdVEqVs7Fesz6d8MI0USHelYPN2OGxYeyv_Bd9YmRb0HrdkUVyM-tT_DJ8vEXYvGB-IgqWdQ8AwLD0zcWCE_UR8Q5s1Dynz-yG8-HNHvIoTLyfzI0amUMQlud2ctye8zwUGGs-Fw2r2Vy3Kl8sOxKF-vYBzrd1_AAOgFhPyL6eFz9Q78csubDfJpFAq08-kSTHn-tvmVP2OThxjhlq2Cvfr3M5F_IWjna-0TqlLs-19MC1wiLlnT7wzPV70xChDBQWA2uNieRD-cHLrHRBuyDHJGKGYMeduGVSGz0YqD67Y1rGbo-PNs2X_jQMaC1tdV9VxQMa-7QeZ4T1Ks_yICid-tgdpkXW30uqZS40ogq70sRllp-ncpy6tZZnRvqPRn8fHy0a6WQwlUPVLlt1pcYho3rLIm5P3wtXeuS3l7laBH3FrKa7Ge0pSvpAN0alFLUNWa3YMpHG11yXsEk7kUaGKqseilmBfYR98j_XVfAee_tPNNcltCk82GG5X1lbHsWC13sK5sl4TVQIsAT9M8oSH_Ekd1LbCd3SA0nFhZLbDMpnA3GZ7JyA7zGfe75E41obSNrYNff1RS2-K4p__YaGi0j__kDPIo55psRXL3JceDjAhnA0njwgGogtLlYSGEfj94jeqtshs3_avxV1HdfUXflmTQQbM6PyVFO9Yltx4RmQxO-bhXuL-fb6IFk703P71q2cw4vIAe6_ER_mO0fZjz5vHIVvzbH5AshnH92SbiavdjNezm1uBNrZDeOHz9SYp0JGCobCVjxEmvfH0mk9wtDhGvKNdejRduOKb8hq5VijcIxPo1qJJ3Y5exra_UWYPdvHfZUwNhxhwR1XKlMTuD2aYODBQRCAjfDQVzA06MuiBZDFrLydDC2w16DVPntpeTZuwMpZ8tldsA0edZDckSLDT-kFpJucuFLKP7AV8DrtQVNdEBC4z6YWQ4JxFsdU9801NEHtEDHwcqvSgW7c9bRFLqukV0E4ZJKTxvULudFr7npBU5Gxrq4G1PnKj3z4cCka26bFPKyr3_y2yGVHU-SGAec9GcKeMLPmE1DB6SohYlrwsAG1OnlUVmqMh-tlIrw7hMRTTHojjjIKNbksD1pI6SfPxziAY3xoxDfDCvdKIlGCHBTtsYG-oE8-_BHAmZ3mXPOL7kSd6k=w4000-h8220",
     position: "Member",
@@ -73,32 +73,37 @@ const OrganizationHead = [
     team: "Technical",
   },
   {
-    name: "Harshh",
-    image: "",
+    name: "Harsha",
+    image:
+      "https://cdn.discordapp.com/attachments/1105131591640035338/1105133991578849290/image0.jpg",
     position: "Associate",
     team: "Technical",
   },
   {
     name: "Pranathi Jayanthi",
-    image: "",
+    image:
+      "https://media.discordapp.net/attachments/1004365336348467251/1105107688758714468/IMG_20220709_224640_843.jpg?width=468&height=468",
     position: "Associate",
     team: "Technical",
   },
   {
     name: "Gyanesh Rao",
-    image: "",
+    image:
+      "https://media.discordapp.net/attachments/1105110231538749531/1105110913817772103/phto.jpg",
     position: "Associate",
     team: "Technical",
   },
   {
     name: "Annirudha",
-    image: "",
+    image:
+      "https://media.discordapp.net/attachments/1104858606563762307/1104859143770222742/cc6e7247bfa4dfe212a4dc1149cc9346.png",
     position: "Associate",
     team: "Technical",
   },
   {
     name: "Amandeep Kumar",
-    image: "",
+    image:
+      "https://cdn.discordapp.com/attachments/1101453061681057812/1105093954518651031/profile.jpg",
     position: "Member",
     team: "Technical",
   },
@@ -110,6 +115,13 @@ const OrganizationHead = [
     team: "Logistics",
   },
   {
+    name: "Amrit Kumar",
+    image:
+      "https://media.discordapp.net/attachments/1105110231538749531/1105111474696900608/20230508_180801.jpg?width=351&height=468",
+    position: "Board Member",
+    team: "Logistics",
+  },
+  {
     name: "Madhav Walia",
     image:
       "https://media.licdn.com/dms/image/D5603AQEXZmgdvjgzUQ/profile-displayphoto-shrink_800_800/0/1670266304634?e=2147483647&v=beta&t=Y9h_7GXgUJOi6EyONM6ynbqBAbgvkean_RILaL4ZYiQ",
@@ -117,17 +129,17 @@ const OrganizationHead = [
     team: "Sponsorship",
   },
   {
-    name: "Omkar G",
+    name: "Divyanshu Singh",
     image:
-      "https://media.licdn.com/dms/image/D5603AQH2uiEjBhpV9g/profile-displayphoto-shrink_800_800/0/1674765408084?e=2147483647&v=beta&t=wo_E3IfYhmQahDZbnmITBVX0elkLlF-GXxt-XMpQSkc",
+      "https://cdn.discordapp.com/attachments/1105110231538749531/1105110928330072104/Divyanshu.jpg",
     position: "Board Member",
     team: "Sponsorship",
   },
   {
-    name: "Divyanshu Singh",
+    name: "Omkar G",
     image:
-      "https://media.licdn.com/dms/image/C5603AQGwiDGWbcUysA/profile-displayphoto-shrink_800_800/0/1644338905897?e=2147483647&v=beta&t=K4Q-AHpKlkuz3j2uWrQRlyddh1DbaPTcK1Xjj0_oe3g",
-    position: "Syndicate",
+      "https://media.licdn.com/dms/image/D5603AQH2uiEjBhpV9g/profile-displayphoto-shrink_800_800/0/1674765408084?e=2147483647&v=beta&t=wo_E3IfYhmQahDZbnmITBVX0elkLlF-GXxt-XMpQSkc",
+    position: "Board Member",
     team: "Sponsorship",
   },
   {
@@ -154,8 +166,23 @@ const OrganizationHead = [
   },
   {
     name: "Vedika Gupta",
-    image: "",
+    image:
+      "https://cdn.discordapp.com/attachments/1105053537790074901/1105057832660901898/Vedika_Gupta.jpg",
     position: "Syndicate",
+    team: "Public Relations",
+  },
+  {
+    name: "SLS Praneet",
+    image:
+      "https://cdn.discordapp.com/attachments/1026438778442743819/1105142358238040154/IMG_20230508_1701312.jpg",
+    position: "Syndicate",
+    team: "Public Relations",
+  },
+  {
+    name: "Piyush S",
+    image:
+      "https://cdn.discordapp.com/attachments/1104869741165826048/1105108287046811708/njkbkj.jpg",
+    position: "Member",
     team: "Public Relations",
   },
 ];
@@ -169,18 +196,20 @@ export const OrganizersSection = () => {
       <div className="title-gradient my-10 py-3 text-center text-5xl font-semibold sm:mt-20">
         Organized By
       </div>
-      <div className="title-gradient m-4 text-4xl font-semibold">Advisors</div>
+      <div className="title-gradient mb-12 flex justify-center text-4xl font-semibold">
+        Organizers Head
+      </div>
       <div className="flex flex-wrap justify-center gap-4 sm:gap-10">
         {AdvisorsData.map((organizer) => (
           <div
-            className="z-10 flex w-[44%] flex-col items-center space-y-5 rounded-3xl bg-black bg-opacity-30 p-12 py-10 text-xl sm:w-1/6"
+            className="z-10 flex w-[44%] flex-col items-center space-y-5 rounded-3xl bg-black bg-opacity-30 p-8 text-xl sm:w-1/6"
             key={organizer.name}
           >
             <img
               src={organizer.image}
               loading="lazy"
               alt=""
-              className="h-16 w-16 rounded-md object-cover object-center sm:h-24 sm:w-24"
+              className="h-16 w-16 rounded-md object-cover object-center sm:h-32 sm:w-32"
             />
             <div>
               <div className="indigo mb-2 text-center text-3xl font-medium text-gray-200 antialiased md:text-lg">
@@ -194,25 +223,25 @@ export const OrganizersSection = () => {
         ))}
       </div>
       <div className="title-gradient my-10 py-3 text-center text-4xl font-semibold sm:mt-20">
-        Organization Head
+        Organizers
       </div>
       <div className="flex flex-wrap justify-center gap-4 sm:gap-10">
         {OrganizationHead.map((organizer) => (
           <div
-            className="z-10 flex w-[44%] flex-col items-center space-y-5 rounded-3xl bg-black bg-opacity-30 p-10 py-10 text-center text-xl sm:w-1/6"
+            className="z-10 flex w-[44%] flex-col items-center space-y-5 rounded-3xl bg-black bg-opacity-30 p-8 text-center text-xl sm:w-1/6"
             key={organizer.name}
           >
             <img
               src={organizer.image}
               loading="lazy"
               alt=""
-              className="h-16 w-16 rounded-md object-cover object-center sm:h-24 sm:w-24"
+              className="h-20 w-20 rounded-md object-cover object-center sm:h-32 sm:w-36 md:h-28 md:w-28"
             />
             <div>
-              <div className="indigo mb-2 text-center text-3xl font-medium text-gray-200 antialiased md:text-lg">
+              <div className="indigo mb-2 text-center font-medium text-gray-200 antialiased sm:text-sm md:text-xl">
                 {organizer.name}
               </div>
-              <div className="sm:text-md flex justify-center text-lg text-gray-300">
+              <div className="flex justify-center text-lg text-gray-300 sm:text-sm">
                 {organizer.team}
               </div>
             </div>

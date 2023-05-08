@@ -24,7 +24,7 @@ export const Schedule = () => {
                   Opening Ceremony
                 </h2>
                 <p className="text-gray-300">
-                  Vice Chancellor Speech, Sponsor Speech, Rules and Problem
+                  Vice Chancellor Speech, Sponsors Speech, Rules and Problem
                   Statement
                 </p>
               </div>
@@ -38,7 +38,8 @@ export const Schedule = () => {
                   Start of Hackathon
                 </h2>
                 <p className="text-gray-300">
-                  Participants start working on their projects
+                  The hackathon kicks Off! Participants begin working on their
+                  projects
                 </p>
               </div>
             </li>
@@ -61,9 +62,9 @@ export const Schedule = () => {
                   Mentorship Session
                 </h2>
                 <p className="text-gray-300">
-                  As the participants will have a berif idea of what kind of
-                  product they are building, the judges and mentors of each
-                  sponsor will have a look at their idea
+                  Mentorship sessions where industry experts and seasoned
+                  professionals will guide you with tips for success in the tech
+                  industry.
                 </p>
               </div>
             </li>
@@ -101,7 +102,7 @@ export const Schedule = () => {
                   Announcement of Results
                 </h2>
                 <p className="text-gray-300">
-                  Winners are announced and prizes are distributed
+                  Winners will be announced and prizes are to be distributed.
                 </p>
               </div>
             </li>

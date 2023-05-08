@@ -13,7 +13,7 @@ export const ContactUs = () => {
             stroke={1.5}
           />
           <div className="indigo text-center text-xl text-gray-200 antialiased sm:text-2xl">
-            hacksrm@srmap.edu.in
+            help@hacksrm.tech
           </div>
         </div>
         <div className="flex items-center justify-center space-x-6">
