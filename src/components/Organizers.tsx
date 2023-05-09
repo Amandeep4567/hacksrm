@@ -193,11 +193,8 @@ export const OrganizersSection = () => {
       id="Organizers"
       className="min-h-screen rounded-lg bg-gray-900 px-2 pb-4 pt-5 text-lg sm:px-10 sm:pt-10 "
     >
-      <div className="title-gradient my-10 py-3 text-center text-5xl font-semibold sm:mt-20">
-        Organized By
-      </div>
       <div className="title-gradient mb-12 flex justify-center text-4xl font-semibold">
-        Organizers Head
+        Organizing Heads
       </div>
       <div className="flex flex-wrap justify-center gap-4 sm:gap-10">
         {AdvisorsData.map((organizer) => (
