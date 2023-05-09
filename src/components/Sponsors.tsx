@@ -99,11 +99,11 @@ export const Sponsors = () => {
         ))}
       </div>
       <div className="w-full flex-col py-10">
-        <div className="pb-8 text-5xl font-semibold text-indigo-600 sm:text-5xl">
-          <h1 className="flex justify-center">Sponsors</h1>
+        <div className="pb-8 text-5xl font-bold text-indigo-600 sm:text-5xl">
+          <h1 className="flex justify-center">SPONSORS</h1>
         </div>
       </div>
-      <h1 className="flex justify-center text-5xl font-bold text-indigo-400 sm:justify-start ">
+      <h1 className="flex justify-center text-5xl font-bold text-indigo-200">
         PLATINUM
       </h1>
       <div className="mb-10 flex flex-wrap justify-center gap-10">
@@ -123,7 +123,7 @@ export const Sponsors = () => {
           </div>
         ))}
       </div>
-      <h1 className="flex justify-center text-5xl font-bold text-indigo-400 sm:justify-start">
+      <h1 className="flex justify-center text-5xl font-bold text-indigo-200">
         GOLD
       </h1>
       <div className="mb-10 flex flex-wrap justify-center gap-10">
@@ -143,7 +143,7 @@ export const Sponsors = () => {
           </div>
         ))}
       </div>
-      <h1 className="flex justify-center text-5xl font-bold text-indigo-400 sm:justify-start">
+      <h1 className="flex justify-center text-5xl font-bold text-indigo-200">
         SILVER
       </h1>
       <div className="flex flex-wrap justify-center gap-10">
