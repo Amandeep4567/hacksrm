@@ -22,22 +22,20 @@
 const Images = [
   {
     key: "second",
-    img: "/sponsores/2nd.png",
+    img: "https://cdn.discordapp.com/attachments/1024859933524627457/1105520689068384336/2nd.png",
     alt: "SECOND",
   },
   {
     key: "first",
-    img: "/sponsores/1st.png",
+    img: "https://cdn.discordapp.com/attachments/1024859933524627457/1105520688607014942/1st.png",
     alt: "FIRST",
   },
   {
     key: "third",
-    img: "/sponsores/3rd.png",
+    img: "https://cdn.discordapp.com/attachments/1024859933524627457/1105520689764634634/3rd.png",
     alt: "THIRD",
   },
 ];
-
-import { ThreeJsBackground } from "./ThreeJsBackground";
 
 export const PrizeWorthSection = () => {
   return (
@@ -45,14 +43,13 @@ export const PrizeWorthSection = () => {
       id="Prizes"
       className="my-0 min-h-screen justify-center bg-gray-900 px-6 py-10 sm:px-20 sm:py-24"
     >
-      <ThreeJsBackground />
       <div className="mb-6 pb-10 text-center text-3xl font-semibold leading-relaxed text-indigo-200 sm:text-5xl">
         Prizes Worth more than 40 Lakhs 🎉
       </div>
-      <div className="flex w-full flex-wrap justify-center  sm:mr-10">
+      <div className="flex w-full flex-wrap justify-center">
         {Images.map((image) => (
-          <div className="sm:mr-10" key={image.key}>
-            <img src={image.img} alt={image.alt} className="w-80 " />
+          <div className="sm:mx-10" key={image.key}>
+            <img src={image.img} alt={image.alt} className="w-80" />
           </div>
         ))}
       </div>

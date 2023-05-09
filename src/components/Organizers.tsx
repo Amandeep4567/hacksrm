@@ -47,15 +47,8 @@ const OrganizationHead = [
   {
     name: "Sashank sakkurthi",
     image:
-      "https://lh3.googleusercontent.com/a/AGNmyxanMCOnucIHGQVixkZOa9u_-lJrzThqLqAzzgMH3A=s576-c-no",
+      "https://media.licdn.com/dms/image/D5603AQEpx_s5egJgnA/profile-displayphoto-shrink_400_400/0/1678972233878?e=1689206400&v=beta&t=qYsAl_Gmepd0t-32-ZDc6YWRon_TJ1wMUtV_vhLnZoI",
     position: "Syndicate",
-    team: "Technical",
-  },
-  {
-    name: "Amandeep Kumar",
-    image:
-      "https://cdn.discordapp.com/attachments/1101453061681057812/1105093954518651031/profile.jpg",
-    position: "Member",
     team: "Technical",
   },
   {
@@ -68,14 +61,14 @@ const OrganizationHead = [
   {
     name: "Subhash",
     image:
-      "https://cdn.discordapp.com/attachments/1105388911464824902/1105388978145861632/1683399705684.jpg",
+      "https://lh3.googleusercontent.com/fife/APg5EObTmqcuz8YjBL8mtgHE61qSGaePzbqDbfs_sBKoJ6MDu16aqL3pZq6LOCXm1ERS0t5koRet9vCG14wo2t24DHRylwJLkOJfDHpWIb3z_G71MILpYM5H5fZd2Uhudb1Zftq0rYIGWLp2_GMRow76D69jaTg9Qj11CI64ydWEdseiGfRSm8muEbq4vR2Z3Y0zqv9yuNFSTImMu6Vv68D_iMWzHu1eEnrGCagPaXSVyikyeT1WwMKQtMeHOUUBGU8d1m2WDoWxVRzHM7rX5KQ9MAoXlwFeABiR4VtkyPgsgnoKDao0fMFoaw8S9MyNhzCy121PxnHjUiFYjsJlSz6zhik6yCS4jYaBUSrTG0TTsWrZlnLFVqFM1Q9MidzMUUB1dN0jdSY3fADoISkaDjGlhRIAdVEqVs7Fesz6d8MI0USHelYPN2OGxYeyv_Bd9YmRb0HrdkUVyM-tT_DJ8vEXYvGB-IgqWdQ8AwLD0zcWCE_UR8Q5s1Dynz-yG8-HNHvIoTLyfzI0amUMQlud2ctye8zwUGGs-Fw2r2Vy3Kl8sOxKF-vYBzrd1_AAOgFhPyL6eFz9Q78csubDfJpFAq08-kSTHn-tvmVP2OThxjhlq2Cvfr3M5F_IWjna-0TqlLs-19MC1wiLlnT7wzPV70xChDBQWA2uNieRD-cHLrHRBuyDHJGKGYMeduGVSGz0YqD67Y1rGbo-PNs2X_jQMaC1tdV9VxQMa-7QeZ4T1Ks_yICid-tgdpkXW30uqZS40ogq70sRllp-ncpy6tZZnRvqPRn8fHy0a6WQwlUPVLlt1pcYho3rLIm5P3wtXeuS3l7laBH3FrKa7Ge0pSvpAN0alFLUNWa3YMpHG11yXsEk7kUaGKqseilmBfYR98j_XVfAee_tPNNcltCk82GG5X1lbHsWC13sK5sl4TVQIsAT9M8oSH_Ekd1LbCd3SA0nFhZLbDMpnA3GZ7JyA7zGfe75E41obSNrYNff1RS2-K4p__YaGi0j__kDPIo55psRXL3JceDjAhnA0njwgGogtLlYSGEfj94jeqtshs3_avxV1HdfUXflmTQQbM6PyVFO9Yltx4RmQxO-bhXuL-fb6IFk703P71q2cw4vIAe6_ER_mO0fZjz5vHIVvzbH5AshnH92SbiavdjNezm1uBNrZDeOHz9SYp0JGCobCVjxEmvfH0mk9wtDhGvKNdejRduOKb8hq5VijcIxPo1qJJ3Y5exra_UWYPdvHfZUwNhxhwR1XKlMTuD2aYODBQRCAjfDQVzA06MuiBZDFrLydDC2w16DVPntpeTZuwMpZ8tldsA0edZDckSLDT-kFpJucuFLKP7AV8DrtQVNdEBC4z6YWQ4JxFsdU9801NEHtEDHwcqvSgW7c9bRFLqukV0E4ZJKTxvULudFr7npBU5Gxrq4G1PnKj3z4cCka26bFPKyr3_y2yGVHU-SGAec9GcKeMLPmE1DB6SohYlrwsAG1OnlUVmqMh-tlIrw7hMRTTHojjjIKNbksD1pI6SfPxziAY3xoxDfDCvdKIlGCHBTtsYG-oE8-_BHAmZ3mXPOL7kSd6k=w4000-h8220",
     position: "Member",
     team: "Technical",
   },
   {
     name: "Kumar Sashank",
     image:
-      "https://cdn.discordapp.com/attachments/1105386266196983808/1105386474645504061/IMG_20230425_220307_865.jpg",
+      "https://lh3.googleusercontent.com/fife/APg5EOZZ1bBSABknjg74fxH73HPVshYiLNlUlaALXbGU9GAqnQcOta307NywZgnYrwEL3XRyIcRENWjTT8wt0W8ZOL-8wMx7CKcE4rfoKZS7N9kzcwc_jMxU6RYvz_IXgt7XQIBmoAJ7qj8K3CNvbZvbjEDH-0n8Q6C9FzF-N88r3iYqQy2bsOUDXziLgy2Bw16EBD_IzsUknAIuswWWtWgMNvkqyn3ZmWdThzHikq__Yt9ZGyKVUk12YzGnRtvjbz5ZnldsGBYSV16zxMLkj0z27wAACy5FInSebmfk0hjwEx-5DhkxFyRf3aTLUWfWJ-nkcPYX66yDQeaxTFuWF5_DWF2kdcu6uxv6vBiAnxhD-Y2A0_xf3yihY9ZlxABp_ek9WTzL_9qXP0KrPhJWuQXVwiha6ZkOz9UqFgTBNWzxFj-9kdrR0vdTtDCvfbbwhxRaGtWFWczfewiOsnGaZfVCnrLGRtF-1rpxr7ByDmP46FRa6EOODT0mqDdLWOZIa29GC-NUXffUr1FlEMXW9i73GuoYV1Vj8IcleBBTFFAvp2c-JpV2qX_h97KvKVzUwOKKmLms4BfnuDP_CzGqRd3bGAuIEB7RwGWJXvVxJMOJYl0e8npCGaNt_XNu7j97ViNwU-0248gZjfL0mhU6RuorcnRz5PcGucDuNZJ64l-LjO-Ph8ObzjVR6V4De5vDMwo61UYWmvl1Olyx0Z2H8KAaQ28BgjaMEOqFk8Ag1YwJzu79SUSRNgze-0-wtKoB4P7DtdMku5SxtsmlBpCRXE1DsJkIMVCL4NYl_ClXeH0jHa5bZS9LtIQaqUKuaVkpOE0hXOJL1WzCXBEQZQNaHYBS2RTRIgKrDzSZxrpw8EEIwhAsQFT2A7rryntkAM6XauucwMurNr9cQ_9hAaPFzdwS195qF3beuJdacOlY4wzjs2Mst51N0EZ6W2mrbx2ZdcxZDtd9fhsblbg9O03dRc5YSuPv6NuiYARgGh04EwJs6Ses22if9niVkvZAyy5BpDmYegP6B0R7IqhF24l-UKLiHmyWvBVkjQ_1MWtPyZJja39m7fdIjLPSYeMrtxnJf17w5yUWMuzqnhtxyhCKrntok_khmx5fprb6FVsc8H-KtTjcQPFrbq_GvF0cFcMkIhSBaJsvbGCkm6_kikQpxafSh6N1UD7YBMSK5IOY441i0Z_chbBOUJxfZ_wTnBQ5cA0mR9u4ZgDhlvXNYe3yINnhhk_Zd3zBbr3zPekER6ZdvY_p2MHjJd1xQzYV5BfonpolKwRLYTo65LLhY20mX-AqBoKwQ3KNpWOEYkuArAegEQzpp6C53p-KzR7HPlP3NnrW39oMm7wVDwvZKm3m1WNYhghAWw-0z-fwQX7jN72sV1X5VXgvhTJb3gBYyfGgP1s3HXGi84zUdj7Xq-cLpL1Mx-CxDgaxfy0NDMxw9R-JjH79cflOWvz8od-acUKwFJAtTCu7PnBNQe9t_l8aINjwOf4m7_jNVAAuw92MwzZke_8CiI4rSI5OEVLTLFD2sbXUpVG0iJI1tGgrehtRWj9Zukwq3MNA9v3_3EBfcCE=w1994-h1528",
     position: "Member",
     team: "Technical",
   },
@@ -107,7 +100,13 @@ const OrganizationHead = [
     position: "Associate",
     team: "Technical",
   },
-
+  {
+    name: "Amandeep Kumar",
+    image:
+      "https://cdn.discordapp.com/attachments/1101453061681057812/1105093954518651031/profile.jpg",
+    position: "Member",
+    team: "Technical",
+  },
   {
     name: "Shivansh Goel",
     image:
@@ -194,7 +193,7 @@ export const OrganizersSection = () => {
       id="Organizers"
       className="min-h-screen rounded-lg bg-gray-900 px-2 pb-4 pt-5 text-lg sm:px-10 sm:pt-10 "
     >
-      <div className="title-gradient mb-12 mt-10 flex justify-center text-4xl font-semibold">
+      <div className="title-gradient mb-12 flex justify-center text-4xl font-semibold">
         Organizing Heads
       </div>
       <div className="flex flex-wrap justify-center gap-4 sm:gap-10">
