@@ -102,7 +102,7 @@ export const Schedule = () => {
                   Announcement of Results
                 </h2>
                 <p className="text-gray-300">
-                  Winners will be announced and prizes are to be distributed.
+                  Winners will be announced and prizes will be distributed.
                 </p>
               </div>
             </li>
@@ -114,9 +114,7 @@ export const Schedule = () => {
                 <h2 className="ml-5 text-2xl font-semibold text-gray-300">
                   Closing Ceremony
                 </h2>
-                <p className="text-gray-300">
-                  Closing Ceremony, Thank you note, and Feedback
-                </p>
+                <p className="text-gray-300">Closing Ceremony</p>
               </div>
             </li>
           </ul>
