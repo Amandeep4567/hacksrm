@@ -1,19 +1,19 @@
 const Prizes = [
   {
     name: "second",
-    img: "public/sponsores/second.png",
+    img: "/sponsores/second.png",
     awards: "Rs: 150000",
     alt: "SECOND PRIZE",
   },
   {
     name: "first",
-    img: "public/sponsores/first.png",
+    img: "/sponsores/first.png",
     awards: "Rs: 200000",
     alt: "FIRST PRIZE",
   },
   {
     name: "third",
-    img: "public/sponsores/third.png",
+    img: "/sponsores/third.png",
     awards: "Rs: 75000",
     alt: "THIRD PRIZE",
   },
