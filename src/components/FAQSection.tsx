@@ -74,7 +74,7 @@ const QuestionsAndAnswers = ({
 
   return (
     <div
-      className="rounded-md border border-gray-700 px-4 shadow"
+      className="rounded-md border border-gray-600 px-4 shadow"
       key={faq.question}
     >
       <div

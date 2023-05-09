@@ -1,4 +1,4 @@
-import { IconBrandDiscord, IconMail } from "@tabler/icons-react";
+import { IconMail } from "@tabler/icons-react";
 
 export const ContactUs = () => {
   return (
@@ -16,15 +16,6 @@ export const ContactUs = () => {
             help@hacksrm.tech
           </div>
         </div>
-        <div className="flex items-center justify-center space-x-6">
-          <IconBrandDiscord
-            className="h-20 w-20  rounded-full bg-indigo-600 p-4 text-white sm:h-24 sm:w-24"
-            stroke={1.5}
-          />
-          <div className="indigo text-center text-xl text-gray-200 antialiased sm:text-2xl">
-            discord.gg/nexttech
-          </div>
-        </div>
       </div>
 
       <div className="flex flex-col items-center justify-center space-y-6 pt-8 text-white">
@@ -32,9 +23,9 @@ export const ContactUs = () => {
           In Collaboration With
         </h5>
         <img
-          src="/next-tech-lab-logo.png"
+          src="/sponsores/ntllogo.png"
           alt="NextTech Logo"
-          className="z-10 h-20 rounded-md bg-white p-4"
+          className="z-10 mt-0 h-20 rounded-md p-4"
         />
       </div>
     </section>

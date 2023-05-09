@@ -30,13 +30,13 @@ const PlatinumSponsorsData = [
     sponsorsCategory: "",
     alt: "WOLFRAM LOGO",
   },
-  {
-    name: "codechef",
-    image: "/sponsores/codechef.png",
-    link: "https://www.codechef.com/",
-    sponsorsCategory: "",
-    alt: "CODECHEF LOGO",
-  },
+  // {
+  //   name: "codechef",
+  //   image: "/sponsores/codechef.png",
+  //   link: "https://www.codechef.com/",
+  //   sponsorsCategory: "",
+  //   alt: "CODECHEF LOGO",
+  // },
 ];
 
 const GoldSponsorsData = [
@@ -87,7 +87,7 @@ export const Sponsors = () => {
       className="min-h-screen bg-gray-900 px-2 pb-4 pt-5 sm:px-10 sm:pt-10"
     >
       <div className="w-full py-10">
-        <div className="title-gradient pb-10 text-3xl font-bold text-indigo-600 sm:text-5xl">
+        <div className="title-gradient pb-10 text-3xl font-bold text-indigo-600 sm:text-7xl">
           <h1 className="flex justify-center">TITLE SPONSOR</h1>
         </div>
         {TitleSponsers.map((title) => (
@@ -99,12 +99,12 @@ export const Sponsors = () => {
         ))}
       </div>
       <div className="w-full flex-col py-10">
-        <div className="pb-8 text-5xl font-bold text-indigo-600 sm:text-5xl">
+        {/* <div className="pb-8 text-5xl font-bold text-indigo-600 sm:text-5xl">
           <h1 className="flex justify-center">SPONSORS</h1>
-        </div>
+        </div> */}
       </div>
-      <h1 className="flex justify-center text-5xl font-bold text-indigo-200">
-        PLATINUM
+      <h1 className="flex justify-center pb-8 pt-8 text-3xl font-bold text-indigo-700 sm:text-7xl">
+        PLATINUM SPONSORS
       </h1>
       <div className="mb-10 flex flex-wrap justify-center gap-10">
         {PlatinumSponsorsData.map((sponsor) => (
@@ -123,8 +123,9 @@ export const Sponsors = () => {
           </div>
         ))}
       </div>
-      <h1 className="flex justify-center text-5xl font-bold text-indigo-200">
-        GOLD
+      <div className="w-full flex-col py-10"></div>
+      <h1 className="flex justify-center text-3xl font-bold text-indigo-700 sm:text-7xl">
+        GOLD SPONSORS
       </h1>
       <div className="mb-10 flex flex-wrap justify-center gap-10">
         {GoldSponsorsData.map((sponsor) => (
@@ -143,8 +144,9 @@ export const Sponsors = () => {
           </div>
         ))}
       </div>
-      <h1 className="flex justify-center text-5xl font-bold text-indigo-200">
-        SILVER
+      <div className="w-full flex-col py-10"></div>
+      <h1 className="flex justify-center text-3xl font-bold text-indigo-700 sm:text-7xl">
+        SILVER SPONSORS
       </h1>
       <div className="flex flex-wrap justify-center gap-10">
         {SilverSponsorsData.map((sponsor) => (

@@ -52,6 +52,13 @@ const OrganizationHead = [
     team: "Technical",
   },
   {
+    name: "Amandeep Kumar",
+    image:
+      "https://cdn.discordapp.com/attachments/1101453061681057812/1105093954518651031/profile.jpg",
+    position: "Member",
+    team: "Technical",
+  },
+  {
     name: "Lokesh",
     image:
       "https://cdn.discordapp.com/attachments/1105379652379353148/1105380326315925564/Lokesh_SSS.jpg",
@@ -100,13 +107,7 @@ const OrganizationHead = [
     position: "Associate",
     team: "Technical",
   },
-  {
-    name: "Amandeep Kumar",
-    image:
-      "https://cdn.discordapp.com/attachments/1101453061681057812/1105093954518651031/profile.jpg",
-    position: "Member",
-    team: "Technical",
-  },
+
   {
     name: "Shivansh Goel",
     image:
@@ -193,7 +194,7 @@ export const OrganizersSection = () => {
       id="Organizers"
       className="min-h-screen rounded-lg bg-gray-900 px-2 pb-4 pt-5 text-lg sm:px-10 sm:pt-10 "
     >
-      <div className="title-gradient mb-12 flex justify-center text-4xl font-semibold">
+      <div className="title-gradient mb-12 mt-10 flex justify-center text-4xl font-semibold">
         Organizing Heads
       </div>
       <div className="flex flex-wrap justify-center gap-4 sm:gap-10">
