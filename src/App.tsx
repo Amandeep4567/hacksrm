@@ -8,6 +8,7 @@ import { ThreeJsBackground } from "./components/ThreeJsBackground";
 import { WhyHackSRMAp } from "./components/WhyHackSrmApSection";
 import { Sponsors } from "./components/Sponsors";
 import { Schedule } from "./components/Schedule";
+import { Tracks } from "./components/Tracks";
 
 export const App = () => {
   return (
@@ -17,6 +18,7 @@ export const App = () => {
       <WhyHackSRMAp />
       <PrizeWorthSection />
       <Themes />
+      <Tracks />
       <Sponsors />
       <Schedule />
       <OrganizersSection />

@@ -22,10 +22,7 @@ export const Schedule = () => {
               <h2 className="ml-5 text-2xl font-semibold text-gray-300">
                 Opening Ceremony
               </h2>
-              <p className="text-gray-300">
-                Vice Chancellor Speech, Sponsors Speech, Rules and Problem
-                Statement
-              </p>
+              <p className="text-gray-300">Kicking of Event</p>
             </div>
           </li>
           <li className="timeline-item">

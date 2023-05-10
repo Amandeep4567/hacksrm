@@ -88,7 +88,7 @@ export const Sponsors = () => {
       className="min-h-screen bg-gray-900 px-2 pb-4 pt-5 sm:px-10 sm:pt-10"
     >
       <div className="w-full py-10">
-        <div className="title-gradient title-gradient pb-10 text-3xl font-bold sm:text-4xl">
+        <div className="title-gradient  pb-10 text-3xl font-bold sm:text-4xl">
           <h1 className="flex justify-center">TITLE SPONSOR</h1>
         </div>
         {TitleSponsers.map((title) => (
