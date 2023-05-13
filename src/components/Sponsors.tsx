@@ -1,12 +1,12 @@
-const TitleSponsers = [
-  {
-    name: "nimblebox.ai",
-    image:
-      "https://nimblebox.ai/_next/static/media/site-logo-light.148d6d0b.svg",
-    link: "https://nimblebox.ai/",
-    alt: "NIMBLEBOX LOGO",
-  },
-];
+// const TitleSponsers = [
+//   {
+//     name: "nimblebox.ai",
+//     image:
+//       "https://nimblebox.ai/_next/static/media/site-logo-light.148d6d0b.svg",
+//     link: "https://nimblebox.ai/",
+//     alt: "NIMBLEBOX LOGO",
+//   },
+// ];
 
 const PlatinumSponsorsData = [
   {
